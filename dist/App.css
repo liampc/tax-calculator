@@ -1,8 +1,17 @@
-p {
-  text-decoration: line-through;
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-html {
-  color: red;
+*, *::before, *::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
 }
 /*# sourceMappingURL=App.css.map */
