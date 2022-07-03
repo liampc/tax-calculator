@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Spinnaker&display=swap");
 html {
   font-size: 100%;
   -webkit-box-sizing: border-box;
@@ -13,5 +14,6 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
+  color: #7536d3;
 }
 /*# sourceMappingURL=App.css.map */
